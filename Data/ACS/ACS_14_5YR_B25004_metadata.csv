@@ -1,0 +1,19 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Total: - For rent
+HD02_VD02,Margin of Error; Total: - For rent
+HD01_VD03,"Estimate; Total: - Rented, not occupied"
+HD02_VD03,"Margin of Error; Total: - Rented, not occupied"
+HD01_VD04,Estimate; Total: - For sale only
+HD02_VD04,Margin of Error; Total: - For sale only
+HD01_VD05,"Estimate; Total: - Sold, not occupied"
+HD02_VD05,"Margin of Error; Total: - Sold, not occupied"
+HD01_VD06,"Estimate; Total: - For seasonal, recreational, or occasional use"
+HD02_VD06,"Margin of Error; Total: - For seasonal, recreational, or occasional use"
+HD01_VD07,Estimate; Total: - For migrant workers
+HD02_VD07,Margin of Error; Total: - For migrant workers
+HD01_VD08,Estimate; Total: - Other vacant
+HD02_VD08,Margin of Error; Total: - Other vacant
